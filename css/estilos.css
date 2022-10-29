@@ -73,7 +73,7 @@ body::-webkit-scrollbar-thumb {
     background-size: cover;
     background-position: center;
     color: white;
-    background-image: url("../img/img2.jpeg");
+    background-image:  url("../Img/img2.jpeg");
     display: flex;
 }
 
